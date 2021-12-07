@@ -4,6 +4,7 @@
 #@title Import relevant modules
 import pandas as pd
 import tensorflow as tf
+import numpy as np
 from matplotlib import pyplot as plt
 
 # The following lines adjust the granularity of reporting. 
